@@ -7,7 +7,7 @@
 
 ### GreenSQA | Integral Service Professional
 **January 2021 - Present**
-- Develop and maintain test automation robots using Aimaps
+- Develop and maintain test automation robots using Selenium
 - Design and execute performance testing using JMeter
 - Manage Azure Virtual Machines for testing environments
 - Create and implement automation bots
